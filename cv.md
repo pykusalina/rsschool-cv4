@@ -19,6 +19,7 @@ return (a * b);
 Skills:
 HTML
 CSS
+SCSS
 JavaScript(basic)
 
 ---

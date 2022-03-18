@@ -32,3 +32,11 @@ Chrome Web Tools
 Figma
 
 ---
+Educdtion:
+Study in Ivan Franko National University of Lviv
+Faculty of Foregion Languages
+First-year student
+
+---
+English:
+A2

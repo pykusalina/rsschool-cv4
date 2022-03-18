@@ -15,3 +15,20 @@ function (a, b) {
 return (a * b);
 }
 ```
+---
+Skills:
+HTML
+CSS
+JavaScript(basic)
+
+---
+Methodology - BEM
+
+---
+Development tools:
+visual studio code
+GitHub
+Chrome Web Tools
+Figma
+
+---
